@@ -1,0 +1,28 @@
+@media screen and (max-width: 491px) {
+    .header-top{
+        display: none;
+      }
+     
+  }
+  @media screen and (max-width: 768px) {
+
+      .benner h3{
+        font-size:36px !important;
+      }
+  }
+  @media screen and (max-width: 768px) {
+
+    .card-1{
+     width: 100%;
+    }
+}
+
+    
+
+
+
+
+
+
+
+
